@@ -3,6 +3,7 @@
  * rev_array - Reverse the array given
  * @a: array to be reversed
  * @n: number of element to swap
+ *
  * Return: void
  */
 void reverse_array(int *a, int n)
